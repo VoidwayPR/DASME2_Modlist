@@ -1,0 +1,1495 @@
+Initialize engine version: 5.3.4p6 (9eb825cf2ca3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 31.0.15.3623]
+    Renderer: NVIDIA GeForce RTX 4070 Ti
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Purchasing.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Purchasing.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWinStore.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWinStore.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWP8.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWP8.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\VungleSDKProxy.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\VungleSDKProxy.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Common.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Common.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Security.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Security.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Stores.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Stores.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Apple.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Apple.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\winrt.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\winrt.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Steamworks.NET.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Steamworks.NET.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.661500 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceModel = All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceName = DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceType = Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceUniqueIdentifier = a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+d:/steam/steam.exe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Did Not Refresh Drawing Data. Hashes Matched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 0.880800 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 9503.
+Total: 2.953700 ms (FindLiveObjects: 0.305000 ms CreateObjectMapping: 0.563400 ms MarkObjects: 2.059200 ms  DeleteObjects: 0.025500 ms)
+
+ASYNC LOAD STARTED - DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.855000 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+dlcInstalled = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8398 unused Assets to reduce memory usage. Loaded Objects now: 2863.
+Total: 5.651800 ms (FindLiveObjects: 0.202200 ms CreateObjectMapping: 0.403700 ms MarkObjects: 1.841900 ms  DeleteObjects: 3.203500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 3.162600 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 10474.
+Total: 4.047600 ms (FindLiveObjects: 0.306600 ms CreateObjectMapping: 0.605400 ms MarkObjects: 2.890200 ms  DeleteObjects: 0.233300 ms)
+
+ASYNC LOAD STARTED - DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.930000 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+dlcInstalled = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8399 unused Assets to reduce memory usage. Loaded Objects now: 4092.
+Total: 6.078200 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.424400 ms MarkObjects: 2.503000 ms  DeleteObjects: 2.907700 ms)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 4.203900 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1025 unused Assets to reduce memory usage. Loaded Objects now: 10359.
+Total: 5.570800 ms (FindLiveObjects: 0.396800 ms CreateObjectMapping: 0.549400 ms MarkObjects: 3.441000 ms  DeleteObjects: 1.182700 ms)
+
+ASYNC LOAD STARTED - DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.436300 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+dlcInstalled = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Application.platform == WindowsPlayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Removed 3 renderers with no color property from AlphaClipsafe renderers list on GameObject GoblinKing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Removed 3 renderers with no color property from AlphaClipsafe renderers list on GameObject HangingCageLevel7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8436 unused Assets to reduce memory usage. Loaded Objects now: 28030.
+Total: 10.843200 ms (FindLiveObjects: 1.478900 ms CreateObjectMapping: 1.006400 ms MarkObjects: 5.274100 ms  DeleteObjects: 3.083000 ms)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Correcting Player Position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1b48 -> priority: 1 
+  Thread -> id: 348c -> priority: 1 
+  Thread -> id: 29dc -> priority: 1 

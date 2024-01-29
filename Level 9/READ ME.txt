@@ -1,0 +1,4 @@
+The Custom Map REPLACES one of the old game maps. In this case Level 1.
+Play through the game on an unmodded save file before attempting to play.
+
+Level Select and Restarting the Level Crashes the game. This is a known issue that will get fixed in the future.

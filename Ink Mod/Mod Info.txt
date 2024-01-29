@@ -1,0 +1,4 @@
+New Ink Mod! Very similar to the last one. Changes include
+- Fixes for some of the Ink not working
+- The Ink Effect given to the player and taken away from the Friend
+- "New Endings" that are much more straight-forward.

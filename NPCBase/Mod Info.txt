@@ -1,0 +1,1 @@
+Base for modders to use NPCs. In-game adds more detailed physics for the NPCs. 

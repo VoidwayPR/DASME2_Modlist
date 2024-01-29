@@ -1,0 +1,403 @@
+Initialize engine version: 5.3.4p6 (9eb825cf2ca3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 31.0.15.3623]
+    Renderer: NVIDIA GeForce RTX 4070 Ti
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Purchasing.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Purchasing.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWinStore.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWinStore.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWP8.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\MATWP8.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\VungleSDKProxy.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\VungleSDKProxy.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Common.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Common.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Security.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Security.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Stores.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Stores.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Apple.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Apple.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\winrt.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\winrt.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Steamworks.NET.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\Steamworks.NET.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Steam\steamapps\common\Draw a Stickman EPIC 2\Epic2_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.597500 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceModel = All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceName = DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceType = Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SystemInfo.deviceUniqueIdentifier = a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+d:/steam/steam.exe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Did Not Refresh Drawing Data. Hashes Matched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 0.799300 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 9503.
+Total: 3.020400 ms (FindLiveObjects: 0.340600 ms CreateObjectMapping: 0.532900 ms MarkObjects: 2.121900 ms  DeleteObjects: 0.024300 ms)
+
+ASYNC LOAD STARTED - DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.129900 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+dlcInstalled = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8398 unused Assets to reduce memory usage. Loaded Objects now: 2863.
+Total: 7.966500 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.542000 ms MarkObjects: 3.017700 ms  DeleteObjects: 4.027800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 3.160300 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 10396.
+Total: 5.857400 ms (FindLiveObjects: 0.553700 ms CreateObjectMapping: 0.881400 ms MarkObjects: 4.048900 ms  DeleteObjects: 0.372300 ms)
+
+ASYNC LOAD STARTED - DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.940100 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+dlcInstalled = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8399 unused Assets to reduce memory usage. Loaded Objects now: 4014.
+Total: 6.048800 ms (FindLiveObjects: 0.248800 ms CreateObjectMapping: 0.412000 ms MarkObjects: 2.488300 ms  DeleteObjects: 2.899300 ms)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 2.351000 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1025 unused Assets to reduce memory usage. Loaded Objects now: 10281.
+Total: 5.654000 ms (FindLiveObjects: 0.729200 ms CreateObjectMapping: 0.549500 ms MarkObjects: 3.258600 ms  DeleteObjects: 1.115500 ms)
+
+ASYNC LOAD STARTED - DO NOT EXIT PLAY MODE UNTIL SCENE LOADS... UNITY WILL CRASH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.090300 ms
+deviceName: DESKTOP-N4MTK96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceType: Desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceUniqueIdentifier: a55dcf283ef92d6a0c65183946536019840fd00c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+deviceModel: All Series (ASUS)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+dlcInstalled = True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Application.platform == WindowsPlayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Application.platform == WindowsPlayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Application.platform == WindowsPlayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Application.platform == WindowsPlayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+isDLC = False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level Loaded: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cloud Storage Not Enabled For App
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8461 unused Assets to reduce memory usage. Loaded Objects now: 28710.
+Total: 16.103701 ms (FindLiveObjects: 2.109800 ms CreateObjectMapping: 1.687300 ms MarkObjects: 7.842300 ms  DeleteObjects: 4.463200 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 5a40 -> priority: 1 
+  Thread -> id: 8184 -> priority: 1 
+  Thread -> id: 299c -> priority: 1 

@@ -1,0 +1,48 @@
+TAB to open the Console
+
+- Character Control & Movement
+
+flight + pass through objects = "noclip"
+no damage = "god"
+faster = "+playerspeed"
+slower = "-playerspeed"
+faster enemies = "+enemyspeed"
+slower enemies = "-enemyspeed"
+NPC pushing (doesn't work on all levels) = "npcrigid" 
+Smooth Flying = "flight"
+Sporadic Flying = "mpflight"
+
+- Spawning (WIP)
+
+Note that spawning will not work if the original object has been destroyed
+
+Spawn Level Enemy = "spawn enemy"
+Spawn NPC = "spawn (npc name)"
+Spawn Cube = "spawn blankcube"
+Spawn Heartpiece = "spawn heartpiece"
+
+- Gameplay Changes
+
+Turn into Ink Creature = "ink mode"
+Disable enemy freezing = "boyom mode"
+Higher Enemy Difficulty = "bloodlust"
+Vulnerable Player = "sickness"
+Combination of last two = "hell"
+
+- Random stuff
+
+End the game - "anticlimax"
+Spawn 23 Ink Rats (only works on levels with rats) - "ratatouille"
+Lag - "lag"
+Cover the map in cockroaches - "infestation"
+turn the game upside down - "australia"
+Crash the game - "badcode"
+??? - "jorge"
+
+
+
+
+
+
+
+

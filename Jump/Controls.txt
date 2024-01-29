@@ -1,0 +1,4 @@
+Space to Jump
+F to enter Flying Mode
++ to increase Jump Height
+- to decrease Jump Height

@@ -1,0 +1,15 @@
+This mod replaces the 5 main pencils with 5 new ones, from Draw a Stickman 1, 3, and completely original pencils.
+WARNING: Meant to be played on a completed save. Many puzzles are impossible and you will not be able to progress if playing on a new save.
+
+New Pencil Info:
+Ink Pencil - Your stickman has adapted to ink since the first game. It still hurts, but it's more slippery, and you slide faster in it!
+Bubble Pencil - Like the Epic 3 counterpart, does absolutely nothing!
+Lake pencil - Unlike the stupid boring rain pencil which does something for like 1 level, the lake pencil turns the floor into water, trapping enemies and doing all sorts of cool stuff.
+Bomb Pencil - Creates a big boom that kills all enemies in the level and destroys all breakable objects (like rocks). Just... Don't use it in level 7.
+Lava Pencil - Brother of the Fire Pencil from the other games. The Lava Pencil creates a burning hot area of lava that hurts enemies, but also you.
+
+Additional Info:
+Bomb Pencil is super buggy. There's a chance rocks are broken, but still appear normal. You can go through them however so just ignore it. The explosion also carries over to other levels, so if you don't want things to be too bad I'd use it once and restart the game.
+Bomb Pencil also softlocks Levels 2 and 7. 
+The Lava Pencil unfortunately only works on Levels 6 and 7 (Level 7 is... A bit different with this mod).
+Just have fun. This is a sandbox-like mod and I wouldn't recommend taking it too seriously.
