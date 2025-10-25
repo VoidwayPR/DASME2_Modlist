@@ -1,0 +1,5 @@
+This is The Immortal Snail Mod. You can't hide. It will find you.
+
+This mod was made with MelonLoader so the way to download it is a bit different. First you want to download MelonLoader at https://melonloader.co/download, and in the Installer look for Draw a Stickman: EPIC 2. If you can't find it, click "Add Game Manually" and select "Epic2.exe" from your game files. Before you install, make sure you change it to Version 0.5.7, as newer versions just dont work with the game. Get it installed, then drag and drop both Mods and Epic2_Data from this zip into your base game directory. Then you're good to go! Since this is a MelonLoader mod you can probably combine it with other mods but I wouldn't recommend it.
+
+Originally the snail was supposed to delete your save files but I accidentally got it to delete your drawings instead. Felt this was too harsh, but I could add this back in if people want it lol.
